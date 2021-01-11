@@ -6,4 +6,4 @@
 
 > Fake cloud hosting website [My Live Preview ](https://zen-carson-c10c9f.netlify.app)
 
-I have followed this tutorial but also commented on the code and a little different.
+I have followed this tutorial.
